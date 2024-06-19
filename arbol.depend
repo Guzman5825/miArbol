@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1718806342 source:c:\users\usuario\desktop\codeblocks ejercicios\arbol\arbol.c
+	"arbol.h"
+
+1718807066 c:\users\usuario\desktop\codeblocks ejercicios\arbol\arbol.h
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1718806677 source:c:\users\usuario\desktop\codeblocks ejercicios\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"arbol.h"
+	"stock.h"
+
+1717564743 source:c:\users\usuario\desktop\codeblocks ejercicios\arbol\input.c
+	"input.h"
+
+1717564743 c:\users\usuario\desktop\codeblocks ejercicios\arbol\input.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1718806335 source:c:\users\usuario\desktop\codeblocks ejercicios\arbol\stock.c
+	"stock.h"
+
+1718806335 c:\users\usuario\desktop\codeblocks ejercicios\arbol\stock.h
+	<stdio.h>
+
+1717613932 source:c:\users\laboratorios\desktop\arbol\arbol.c
+	"arbol.h"
+
+1717617158 c:\users\laboratorios\desktop\arbol\arbol.h
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+
+1717564743 source:c:\users\laboratorios\desktop\arbol\input.c
+	"input.h"
+
+1717564743 c:\users\laboratorios\desktop\arbol\input.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1717614052 source:c:\users\laboratorios\desktop\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"arbol.h"
+	"stock.h"
+
+1717567360 c:\users\laboratorios\desktop\arbol\stock.h
+	<stdio.h>
+
+1717567368 source:c:\users\laboratorios\desktop\arbol\stock.c
+	"stock.h"
+
